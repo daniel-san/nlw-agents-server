@@ -8,6 +8,13 @@
       "when": 1752240427470,
       "tag": "0000_broad_namor",
       "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1752326847180,
+      "tag": "0001_exotic_madripoor",
+      "breakpoints": true
     }
   ]
 }
