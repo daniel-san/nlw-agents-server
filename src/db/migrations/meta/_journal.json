@@ -15,6 +15,13 @@
       "when": 1752326847180,
       "tag": "0001_exotic_madripoor",
       "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1753619317833,
+      "tag": "0002_orange_vengeance",
+      "breakpoints": true
     }
   ]
 }
